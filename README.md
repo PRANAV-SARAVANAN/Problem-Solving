@@ -13,6 +13,7 @@ Sample Input
 1 5 3
 3 1
 5 7
+
 Sample Output
 
 1
